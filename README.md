@@ -2,7 +2,7 @@
 
 基于flask开发类似gitbook的知识管理网站。
 
-MinDoc 接口文档在线管理系统
+MinDoc 接口文档在线管理系统 https://www.iminho.me/
 
 码云地址：https://gitee.com/beibq/beibq
 
